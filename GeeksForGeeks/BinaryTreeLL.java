@@ -55,7 +55,7 @@ class Solution {
 
 
 //{ Driver Code Starts.
-class GFG {
+class BinaryTreeLL {
     static Node lhead;
     static Queue<Tree> queue = new LinkedList<Tree>();
 
